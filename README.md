@@ -49,7 +49,7 @@ git push
 ```
 
 ## Tech Stack
-###Frontend
+### Frontend
 - Framework: React + TypeScript
 - Bundler: Vite
 - Styling: Tailwind CSS
@@ -60,7 +60,7 @@ git push
 - Utilities: date-fns
 - Linting: ESLint with TypeScript plugin
 
-###Backend
+### Backend
 - Language: TypeScript (Node.js)
 - Framework: Express.js
 - Database: MongoDB (via Mongoose)
