@@ -9,8 +9,11 @@ This repository acts as a **lightweight monorepo** that links together the two m
 
 ## Project Structure
 finance-tracker/ 
+
 ├── frontend/ # React + Vite + Tailwind + TypeScript (Git submodule)
+
 ├── backend/ # Node.js + Express + MongoDB + TypeScript (Git submodule)
+
 ├── .gitmodules # Submodule configuration
 
 
