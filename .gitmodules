@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:lauraAlabau/finance-tracker-client.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:lauraAlabau/finance-tracker-server.git
